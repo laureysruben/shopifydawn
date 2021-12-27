@@ -206,3 +206,8 @@ cart-items {
     gap: 1rem;
   }
 }
+
+.cart-boxcounter ul {
+  list-style-type: none;
+  padding: 0;
+}

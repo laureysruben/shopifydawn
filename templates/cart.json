@@ -1,5 +1,10 @@
 {
   "sections": {
+    "cart-boxcounter": {
+      "type": "cart-boxcounter",
+      "settings": {
+      }
+    },
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
@@ -46,6 +51,7 @@
     }
   },
   "order": [
+    "cart-boxcounter",
     "cart-items",
     "cart-footer",
     "featured-products"
