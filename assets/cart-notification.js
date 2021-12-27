@@ -55,7 +55,7 @@ class CartNotification extends HTMLElement {
         id: 'cart-icon-bubble'
       },
       {
-        id: 'cart-boxcounter'
+        id: 'cart-notification-boxcounter'
       }
     ];
   }
