@@ -40,7 +40,9 @@
     },
     "cart": {
       "view": "View my cart ({{ count }})",
-      "item_added": "Item added to your cart"
+      "item_added": "Item added to your cart",
+      "box_full": "Full box, free shipping!",
+      "box_notfull": "{{ count }} bottles untill free shipping."
     },
     "share": {
       "close": "Close share",
@@ -145,8 +147,7 @@
       "xr_button": "View in your space",
       "xr_button_label": "View in your space, loads item in augmented reality window",
       "include_taxes": "Tax included.",
-      "shipping_policy_html":
-      "<a href=\"{{ link }}\">Shipping</a> calculated at checkout."
+      "shipping_policy_html": "<a href=\"{{ link }}\">Shipping</a> calculated at checkout."
     },
     "modal": {
       "label": "Media gallery"

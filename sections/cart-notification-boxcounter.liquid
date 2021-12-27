@@ -1,5 +1,5 @@
 {%- if cart != empty -%}
-    <div id="cart-notification-boxcounter" class="cart-notification-boxcounter">
+    <div id="cart-boxcounter" class="cart-boxcounter">
         {%- assign boxcount = cart.total_weight | divided_by: 12000 | ceil -%}
         <ul>
         {%- for i in (1..boxcount) -%}
@@ -7,16 +7,18 @@
         {%- if forloop.last == true -%}
             {%- assign bottlecountremainder = cart.total_weight | modulo: 12000 -%}
             {%- if bottlecountremainder < 12000 and bottlecountremainder > 0 -%}
-            {%- assign bottlecount =  bottlecountremainder | divided_by: 500 -%}
+            {%- assign bottlecount =  bottlecountremainder | divided_by: 500 | round -%}
+            {%- assign remainingbottlecount =  24 | minus: bottlecount | round -%}
+            
             <li><i class="fa fa-box-open"></i>{{ bottlecount }} / 24</li>
+            <li>{{ 'general.cart.box_notfull' | t: count: remainingbottlecount }}</li>
             {% else %}
-            <li><i class="fa fa-box"></i> VOL! </li>
+            <li><i class="fa fa-box"></i>{{ 'general.cart.box_full' | t }}</li>
             {% endif %}
         {% else %}
-            <li><i class="fa fa-box"></i> VOL! </li>
+            <li><i class="fa fa-box"></i>{{ 'general.cart.box_full' | t }}</li>
         {% endif %}
         {% endfor %}
         </ul>
-    <p>aantal dozen: {{ boxcount }}, gewicht: {{ cart.total_weight }}</p>
     </div>
 {%- endif -%}

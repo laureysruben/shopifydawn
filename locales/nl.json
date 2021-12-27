@@ -40,7 +40,9 @@
     },
     "cart": {
       "view": "Winkelwagen bekijken ({{ count }})",
-      "item_added": "Artikel toegevoegd aan winkelwagen"
+      "item_added": "Artikel toegevoegd aan winkelwagen",
+      "box_full": "Volle doos, gratis verzonden!",
+      "box_notfull": "Nog {{ count }} flessen tot gratis verzending."
     },
     "share": {
       "copy_to_clipboard": "Link kopiëren",
