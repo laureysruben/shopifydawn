@@ -1,5 +1,5 @@
 {%- if cart != empty -%}
-    <div id="cart-boxcounter" class="cart-boxcounter">
+    <div id="cart-boxcounter" class="cart-boxcounter page-width">
         {%- assign boxcount = cart.total_weight | divided_by: 12000 | ceil -%}
         <ul>
         {%- for i in (1..boxcount) -%}
@@ -10,8 +10,8 @@
             {%- assign bottlecount =  bottlecountremainder | divided_by: 500 | round -%}
             {%- assign remainingbottlecount =  24 | minus: bottlecount | round -%}
             
-            <li><i class="fa fa-box-open"></i>{{ bottlecount }} / 24</li>
-            <li>{{ 'general.cart.box_notfull' | t: count: remainingbottlecount }}</li>
+            <li><i class="fa fa-box-open"></i>{{ 'general.cart.box_counter' | t: count: bottlecount, totalcount: 24 }}</li>
+            <li class="bottlestillfull">{{ 'general.cart.box_notfull' | t: count: remainingbottlecount }}</li>
             {% else %}
             <li><i class="fa fa-box"></i>{{ 'general.cart.box_full' | t }}</li>
             {% endif %}

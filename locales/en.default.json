@@ -42,7 +42,8 @@
       "view": "View my cart ({{ count }})",
       "item_added": "Item added to your cart",
       "box_full": "Full box, free shipping!",
-      "box_notfull": "{{ count }} bottles untill free shipping."
+      "box_notfull": "{{ count }} bottles untill free shipping.",
+      "box_counter": "{{count}} of {{totalcount}} slots filled"
     },
     "share": {
       "close": "Close share",
