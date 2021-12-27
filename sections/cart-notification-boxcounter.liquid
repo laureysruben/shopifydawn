@@ -11,7 +11,7 @@
             {%- assign remainingbottlecount =  24 | minus: bottlecount | round -%}
             
             <li><i class="fa fa-box-open"></i>{{ bottlecount }} / 24</li>
-            <li>{{ 'general.cart.box_notfull' | t: count: remainingbottlecount }}</li>
+            <li class="bottlestillfull">{{ 'general.cart.box_notfull' | t: count: remainingbottlecount }}</li>
             {% else %}
             <li><i class="fa fa-box"></i>{{ 'general.cart.box_full' | t }}</li>
             {% endif %}
