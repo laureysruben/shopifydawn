@@ -120,7 +120,6 @@
           </h2>
         </div>
       {%- endif -%}
-
       <div class="card__badge">
         {%- if product_card_product.available == false -%}
           <span class="badge badge--bottom-left color-{{ settings.sold_out_badge_color_scheme }}">{{ 'products.product.sold_out' | t }}</span>
@@ -130,4 +129,31 @@
       </div>
     </div>
   </div>
+
+  <form method="post" action="/cart/add">
+
+    <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}" />
+  
+    <input type="hidden" id="quantity" name="quantity" value="1"/>
+  <button
+    type="submit"
+    name="add"
+    class="product-form__submit button button--full-width {% if block.settings.show_dynamic_checkout and product.selling_plan_groups == empty %}button--secondary{% else %}button--primary{% endif %}"
+  {% if product_card_product.available == false %}disabled{% endif %}
+  >
+      <span>
+        {%- if product_card_product.available -%}
+          {{ 'products.product.add_to_cart' | t }}
+        {%- else -%}
+          {{ 'products.product.sold_out' | t }}
+        {%- endif -%}
+      </span>
+      <div class="loading-overlay__spinner hidden">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+          <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+        </svg>
+      </div>
+  </button>
+</form>
+
 </div>

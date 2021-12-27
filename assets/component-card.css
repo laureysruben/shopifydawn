@@ -323,3 +323,7 @@
     transition: background-color var(--duration-long) ease;
   }
 }
+
+.product-form__submit {
+  z-index: 2;
+}
