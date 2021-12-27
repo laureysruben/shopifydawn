@@ -1,6 +1,7 @@
 {%- if cart != empty -%}
   {%- for item in cart.items -%}
-    <div id="cart-notification-product-{{ item.id }}" class="cart-item">
+    <div id="cart-notification-product-{{ item.id }}">
+      <div class="cart-item">
       {% if item.image %}
         <img class="cart-notification-product__image"
           src="{{ item.image | img_url: '140x' }}"
@@ -43,8 +44,8 @@
           <p class="product-option">{{ item.selling_plan_allocation.selling_plan.name }}</p>
         {%- endif -%}
       </div>
-
-      <div id="cart-notification-boxcounter">
+    </div>
+      <div id="cart-notification-boxcounter" class="cart-notification-boxcounter">
         {%- assign boxcount = cart.total_weight | divided_by: 12000 | ceil -%}
         <ul>
         {%- for i in (1..boxcount) -%}
@@ -53,14 +54,14 @@
             {%- assign bottlecountremainder = cart.total_weight | modulo: 12000 -%}
           {%- if bottlecountremainder < 12000 -%}
             {%- assign bottlecount =  bottlecountremainder | divided_by: 500 -%}
-            <li><i class="far fa-box-open"></i>{{ bottlecount }} / 24</li>
+            <li><i class="fa fa-box-open"></i>{{ bottlecount }} / 24</li>
           {% else %}
-            <li><i class="far fa-box"></i> VOL! </li>
+            <li><i class="fa fa-box"></i> VOL! - Gratis verzonden</li>
         {% endif %}
           
             
           {% else %}
-            <li><i class="far fa-box"></i> VOL! </li>
+            <li><i class="fa fa-box"></i> VOL! - Gratis verzonden</li>
         {% endif %}
         {% endfor %}
         </ul>

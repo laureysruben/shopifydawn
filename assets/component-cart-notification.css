@@ -75,7 +75,7 @@
   margin-top: 1rem;
 }
 
-.cart-notification-product {
+.cart-notification-product div.cart-item {
   align-items: flex-start;
   display: flex;
   padding-bottom: 3rem;
@@ -96,4 +96,9 @@
 .cart-notification-product__name {
   margin-bottom: 0.5rem;
   margin-top: 0;
+}
+
+.cart-notification-boxcounter ul {
+  list-style-type: none;
+  padding: 0;
 }
