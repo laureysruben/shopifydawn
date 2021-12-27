@@ -102,3 +102,18 @@
   list-style-type: none;
   padding: 0;
 }
+
+.cart-notification-boxcounter ul li {
+  border: 1px solid rgba(var(--color-button),var(--alpha-button-background));
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.cart-notification-boxcounter ul li.bottlestillfull {
+  color: rgb(var(--color-button-text));
+  background: rgba(var(--color-button),var(--alpha-button-background));
+}
+
+.cart-notification-boxcounter ul li i {
+  margin-right: 1rem;
+}

@@ -211,3 +211,19 @@ cart-items {
   list-style-type: none;
   padding: 0;
 }
+
+
+.cart-boxcounter ul li {
+  border: 1px solid rgba(var(--color-button),var(--alpha-button-background));
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.cart-boxcounter ul li.bottlestillfull {
+  color: rgb(var(--color-button-text));
+  background: rgba(var(--color-button),var(--alpha-button-background));
+}
+
+.cart-boxcounter ul li i {
+  margin-right: 1rem;
+}
