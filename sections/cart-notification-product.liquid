@@ -51,7 +51,7 @@
           
           {%- if forloop.last == true -%}
             {%- assign bottlecountremainder = cart.total_weight | modulo: 12000 -%}
-          {%- if bottlecountremainder < 12000 -%}
+          {%- if bottlecountremainder <= 12000 -%}
             {%- assign bottlecount =  bottlecountremainder | divided_by: 500 -%}
             <li><i class="far fa-box-open"></i>{{ bottlecount }} / 24</li>
           {% else %}
