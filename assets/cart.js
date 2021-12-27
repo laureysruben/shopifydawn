@@ -54,7 +54,7 @@ class CartItems extends HTMLElement {
       },
       {
         id: 'cart-boxcounter',
-        section: document.getElementById('cart-boxcounter').dataset.id,
+        section: 'cart-boxcounter',
         selector: '.shopify-section'
       }
     ];
