@@ -8,12 +8,12 @@
             {%- assign bottlecountremainder = cart.total_weight | modulo: 12000 -%}
             {%- if bottlecountremainder < 12000 and bottlecountremainder > 0 -%}
             {%- assign bottlecount =  bottlecountremainder | divided_by: 500 -%}
-            <li><i class="far fa-box-open"></i>{{ bottlecount }} / 24</li>
+            <li><i class="fa fa-box-open"></i>{{ bottlecount }} / 24</li>
             {% else %}
-            <li><i class="far fa-box"></i> VOL! </li>
+            <li><i class="fa fa-box"></i> VOL! </li>
             {% endif %}
         {% else %}
-            <li><i class="far fa-box"></i> VOL! </li>
+            <li><i class="fa fa-box"></i> VOL! </li>
         {% endif %}
         {% endfor %}
         </ul>
