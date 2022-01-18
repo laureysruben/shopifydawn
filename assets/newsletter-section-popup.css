@@ -1,3 +1,11 @@
+.newsletter {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+}
+
 .newsletter--narrow .newsletter__wrapper,
 .newsletter:not(.newsletter--narrow) .newsletter__wrapper.color-background-1 {
   margin-top: 5rem;
