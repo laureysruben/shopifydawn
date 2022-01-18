@@ -39,6 +39,14 @@
 
 .newsletter__wrapper {
   padding: calc(4rem / var(--font-body-scale));
+  position: relative;
+}
+
+.closebutton {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
 }
 
 @media screen and (min-width: 750px) {
