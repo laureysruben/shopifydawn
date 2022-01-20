@@ -11,8 +11,8 @@ $( document ).ready(function() {
         if(cookie == undefined || cookie == null) {
             
 setTimeout(function() {
-    overlay.fadeIn("fast", () => {
-        popup.fadeIn("fast", () => {});
+    overlay.fadeIn(200, () => {
+        popup.fadeIn(200, () => {});
     });
 }, delay)
 
