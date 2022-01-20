@@ -73,11 +73,43 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "1642532126dbe7a3d8": {
+      "type": "newsletter-popup",
+      "blocks": {
+        "1642532125dce7ac61-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "10% korting op je eerste bestelling"
+          }
+        },
+        "1642532125dce7ac61-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Als je je inschrijft voor onze nieuwsbrief<\/p>"
+          }
+        },
+        "1642532125dce7ac61-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1642532125dce7ac61-0",
+        "1642532125dce7ac61-1",
+        "1642532125dce7ac61-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
-    "featured_products"
+    "featured_products",
+    "1642532126dbe7a3d8"
   ]
 }
