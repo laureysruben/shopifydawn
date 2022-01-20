@@ -2,8 +2,8 @@
 {{ 'newsletter-section-popup.css' | asset_url | stylesheet_tag }}
 {{ 'newsletter-section-popup.js' | asset_url | script_tag }}
 
-<div class="overlay {% if form.posted_successfully? %} postback {% endif %}"></div>
-<div class="newsletterpopup {% if form.posted_successfully? %} postback {% endif %} center{% if section.settings.full_width == false %} newsletter--narrow page-width{% endif%}">
+<div class="overlay {% if form.posted_successfully %} postback {% endif %}"></div>
+<div class="newsletterpopup {% if form.posted_successfully %} postback {% endif %} center{% if section.settings.full_width == false %} newsletter--narrow page-width{% endif %}">
   <div class="newsletter__wrapper color-{{ section.settings.color_scheme }} gradient">
     <i class="fas fa-times closebutton"></i>
     {%- for block in section.blocks -%}
