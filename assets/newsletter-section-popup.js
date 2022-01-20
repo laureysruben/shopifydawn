@@ -10,9 +10,13 @@ $( document ).ready(function() {
     if(!popup.hasClass('postback')) {
         if(cookie == undefined || cookie == null) {
             
-            overlay.delay(delay).fadeIn("fast", () => {
-                popup.fadeIn("fast", () => {});
-            });
+setTimeout(function() {
+    overlay.fadeIn("fast", () => {
+        popup.fadeIn("fast", () => {});
+    });
+}, delay)
+
+            
 
         }
     } else {
