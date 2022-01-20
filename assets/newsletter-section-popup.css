@@ -85,6 +85,7 @@
 
 .newsletter-form__field-wrapper .newsletter-form__message {
   margin-top: 1.5rem;
+  text-align: left;
 }
 
 .newsletter__button {
