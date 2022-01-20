@@ -1,9 +1,10 @@
-.newsletter {
+.newsletterpopup {
   position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 9999;
+  display: none;
 }
 
 .overlay {
@@ -12,13 +13,18 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #00000050;
+  background-color: #00000080;
   z-index: 9998;
+  display: block!important;
+  display: none;
+}
+
+.postback {
   display: block!important;
 }
 
 .newsletter--narrow .newsletter__wrapper,
-.newsletter:not(.newsletter--narrow) .newsletter__wrapper.color-background-1 {
+.newsletterpopup:not(.newsletter--narrow) .newsletter__wrapper.color-background-1 {
   margin: 5rem;
 }
 
@@ -28,7 +34,7 @@
 
 @media screen and (min-width: 750px) {
   .newsletter--narrow .newsletter__wrapper,
-  .newsletter:not(.newsletter--narrow) .newsletter__wrapper.color-background-1 {
+  .newsletterpopup:not(.newsletter--narrow) .newsletter__wrapper.color-background-1 {
     margin: calc(5rem + var(--page-width-margin));
   }
 

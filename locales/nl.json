@@ -62,6 +62,11 @@
     "success": "Bedankt voor het abonneren",
     "button_label": "Abonneren"
   },
+  "newsletter-popup": {
+    "label": "Email",
+    "success": "Bedankt om je te abonneren, gebruik de code NEWSLETTER10 voor 10% bij je eerste bestelling!",
+    "button_label": "Abonneren"
+  },
   "accessibility": {
     "skip_to_text": "Meteen naar de content",
     "close": "Sluiten",
