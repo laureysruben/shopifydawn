@@ -15,19 +15,6 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "blocks": {
-          "15f411b7-b639-4fb1-b709-97084f9be723": {
-            "type": "announcement",
-            "settings": {
-              "text": "🤑 Nu 10% korting met code DRYJANUARY 🤑",
-              "color_scheme": "accent-1",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "15f411b7-b639-4fb1-b709-97084f9be723"
-        ],
         "settings": {
         }
       },
