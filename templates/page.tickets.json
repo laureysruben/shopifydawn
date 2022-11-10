@@ -19,7 +19,7 @@
         "1640640349b2d7b030-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The Lucky ones en Steven Mahieu geven het beste van zichzelf. En nadien vullen we onze maag met een overheerlijke lunch, vergezeld van een heerlijk glas bier.<\/p>",
+            "text": "<p>The Lucky ones en Steven Mahieu geven het beste van zichzelf. <\/p><p>En nadien vullen we onze maag met een overheerlijke lunch, vergezeld van een heerlijk glas bier.<\/p>",
             "text_style": "body"
           }
         },
@@ -61,15 +61,15 @@
         "template--15086721335357__53c127b3-e5ae-4b90-b7d9-4ffe2e87310a-1668081626a5206691-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Local hero Joost van Hyfte komt naar de Messe<\/p>",
+            "text": "<p>Local hero Joost Van Hyfte komt de hoogmis van de Vlaamse comedy leiden. <\/p><p>En nadien vullen we onze maag met een overheerlijke lunch, vergezeld van een heerlijk glas bier.<br\/><\/p>",
             "text_style": "body"
           }
         },
         "template--15086721335357__53c127b3-e5ae-4b90-b7d9-4ffe2e87310a-1668081626a5206691-2": {
           "type": "button",
           "settings": {
-            "button_label": "Tickets",
-            "button_link": ""
+            "button_label": "Koop Tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMesseJoostVanHyfte"
           }
         }
       },
