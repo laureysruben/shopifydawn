@@ -1447,6 +1447,9 @@
     "main-page": {
       "name": "Page"
     },
+    "main-page-notitle": {
+      "name": "Page notitle"
+    },
     "main-password-footer": {
       "name": "Password footer",
       "settings": {
