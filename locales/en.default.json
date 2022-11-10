@@ -222,6 +222,9 @@
     }
   },
   "sections": {
+    "main-page-notitle": {
+      "name":"iets"
+    },
     "header": {
       "announcement": "Announcement",
       "menu": "Menu",
