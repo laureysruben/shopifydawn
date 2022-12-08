@@ -6,48 +6,6 @@
       "settings": {
       }
     },
-    "1640640349565bfcd2": {
-      "type": "image-with-text",
-      "blocks": {
-        "1640640349b2d7b030-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Steven Mahieu & The Lucky Ones",
-            "heading_size": "h2"
-          }
-        },
-        "1640640349b2d7b030-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The Lucky ones en Steven Mahieu geven het beste van zichzelf. <\/p><p>En nadien vullen we onze maag met een overheerlijke lunch, vergezeld van een heerlijk glas bier.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "4f0ffcc3-8351-4d9a-a5b0-54b2d6e25c54": {
-          "type": "button",
-          "settings": {
-            "button_label": "Koop Tickets",
-            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMesseStevenMahieu"
-          }
-        }
-      },
-      "block_order": [
-        "1640640349b2d7b030-0",
-        "1640640349b2d7b030-1",
-        "4f0ffcc3-8351-4d9a-a5b0-54b2d6e25c54"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/steven_mahieu.jpg",
-        "height": "large",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left"
-      }
-    },
     "53c127b3-e5ae-4b90-b7d9-4ffe2e87310a": {
       "type": "image-with-text",
       "blocks": {
@@ -93,7 +51,6 @@
   },
   "order": [
     "main",
-    "1640640349565bfcd2",
     "53c127b3-e5ae-4b90-b7d9-4ffe2e87310a"
   ]
 }
