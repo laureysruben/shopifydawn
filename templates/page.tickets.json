@@ -131,12 +131,55 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "left"
       }
+    },
+    "0f758f0e-8a8d-45c1-bba0-565b26599ca6": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15086721335357__0f758f0e-8a8d-45c1-bba0-565b26599ca6-1671478843cc01f4b4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "De vettige vier",
+            "heading_size": "h1"
+          }
+        },
+        "template--15086721335357__0f758f0e-8a8d-45c1-bba0-565b26599ca6-1671478843cc01f4b4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Improvisatietheater van de bovenste plank in een vettig jasje. De perfecte voorstelling voor een avond lachen, gieren, brullen.<\/p><p>De Vettige Vier brengt improvisatie comedy zoals nooit eerder gezien. Ze spelen de alombekende bargames, korte spelletjes met als enig doel zoveel mogelijk lachen, maar gaan geen enkel onderwerp, geen enkele grap uit de weg. <\/p><p>Het publiek bepaalt welke thema's aan bod komen en welke personages het podium betreden, de Vettige Vier zorgt voor de rest. <\/p><p>Onderwerpen die tijdens andere optredens taboe zijn zoals kanker, kinderziektes, soa's, #metoo, politieke blunders, fecaliën, fetisjisme, racisme ... komen tijdens een optreden van de Vettige Vier wel aan bod als het publiek hiervoor kiest. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15086721335357__0f758f0e-8a8d-45c1-bba0-565b26599ca6-1671478843cc01f4b4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop Tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMessedevettigevier"
+          }
+        }
+      },
+      "block_order": [
+        "template--15086721335357__0f758f0e-8a8d-45c1-bba0-565b26599ca6-1671478843cc01f4b4-0",
+        "template--15086721335357__0f758f0e-8a8d-45c1-bba0-565b26599ca6-1671478843cc01f4b4-1",
+        "template--15086721335357__0f758f0e-8a8d-45c1-bba0-565b26599ca6-1671478843cc01f4b4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/B3363CAF-6234-4231-9964-801DB2320D08.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
     }
   },
   "order": [
     "main",
     "53c127b3-e5ae-4b90-b7d9-4ffe2e87310a",
     "c7889035-81a4-40d3-9fa3-6dc7b28f6c04",
-    "e95e9076-6460-406d-a1f6-9534f8128780"
+    "e95e9076-6460-406d-a1f6-9534f8128780",
+    "0f758f0e-8a8d-45c1-bba0-565b26599ca6"
   ]
 }
