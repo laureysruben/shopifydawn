@@ -6,48 +6,6 @@
       "settings": {
       }
     },
-    "53c127b3-e5ae-4b90-b7d9-4ffe2e87310a": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15086721335357__53c127b3-e5ae-4b90-b7d9-4ffe2e87310a-1668081626a5206691-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Joost Van Hyfte",
-            "heading_size": "h1"
-          }
-        },
-        "template--15086721335357__53c127b3-e5ae-4b90-b7d9-4ffe2e87310a-1668081626a5206691-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Local hero Joost Van Hyfte komt de hoogmis van de Vlaamse comedy leiden. <\/p><p>En nadien vullen we onze maag met een overheerlijke lunch, vergezeld van een heerlijk glas bier.<br\/><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15086721335357__53c127b3-e5ae-4b90-b7d9-4ffe2e87310a-1668081626a5206691-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Koop Tickets",
-            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMesseJoostVanHyfte"
-          }
-        }
-      },
-      "block_order": [
-        "template--15086721335357__53c127b3-e5ae-4b90-b7d9-4ffe2e87310a-1668081626a5206691-0",
-        "template--15086721335357__53c127b3-e5ae-4b90-b7d9-4ffe2e87310a-1668081626a5206691-1",
-        "template--15086721335357__53c127b3-e5ae-4b90-b7d9-4ffe2e87310a-1668081626a5206691-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Joost_Van_Hyfte.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left"
-      }
-    },
     "c7889035-81a4-40d3-9fa3-6dc7b28f6c04": {
       "type": "image-with-text",
       "blocks": {
@@ -177,7 +135,6 @@
   },
   "order": [
     "main",
-    "53c127b3-e5ae-4b90-b7d9-4ffe2e87310a",
     "c7889035-81a4-40d3-9fa3-6dc7b28f6c04",
     "e95e9076-6460-406d-a1f6-9534f8128780",
     "0f758f0e-8a8d-45c1-bba0-565b26599ca6"
