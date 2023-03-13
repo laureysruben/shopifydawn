@@ -6,48 +6,6 @@
       "settings": {
       }
     },
-    "c7889035-81a4-40d3-9fa3-6dc7b28f6c04": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15086721335357__c7889035-81a4-40d3-9fa3-6dc7b28f6c04-1671478843cc01f4b4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Gunter Lamoot",
-            "heading_size": "h1"
-          }
-        },
-        "template--15086721335357__c7889035-81a4-40d3-9fa3-6dc7b28f6c04-1671478843cc01f4b4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Gunter Lamoot begon zijn carrière in 1995 op Studio Brussel onder de vleugels van Kamagurka in \"Studio Kafka\". <\/p><p>Na zijn overwinning van HUMO's Comedy Cup in 2005 is hij sindsdien niet meer van het podium (5 volavondshows), televisiescherm (oa. Comedy Casino, Man Bijt Hond, De Slimste Mens, Bevergem en het vaakgeprezen Superstaar)  en witte doek (oa. Ex Drummer) weg te denken. <\/p><p>Lamoots altijd vernieuwende stijl en ongebreidelde fantasie leverden hem zelf onlangs van Jonas Geirnaert nog het fijne etiket van \"Komisch Genie\" op!<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15086721335357__c7889035-81a4-40d3-9fa3-6dc7b28f6c04-1671478843cc01f4b4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Koop Tickets",
-            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDemesseGunterLamoot"
-          }
-        }
-      },
-      "block_order": [
-        "template--15086721335357__c7889035-81a4-40d3-9fa3-6dc7b28f6c04-1671478843cc01f4b4-0",
-        "template--15086721335357__c7889035-81a4-40d3-9fa3-6dc7b28f6c04-1671478843cc01f4b4-1",
-        "template--15086721335357__c7889035-81a4-40d3-9fa3-6dc7b28f6c04-1671478843cc01f4b4-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/2C0BF634-50FC-48AF-9D01-5E4A562CBC7B.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left"
-      }
-    },
     "e95e9076-6460-406d-a1f6-9534f8128780": {
       "type": "image-with-text",
       "blocks": {
@@ -135,7 +93,6 @@
   },
   "order": [
     "main",
-    "c7889035-81a4-40d3-9fa3-6dc7b28f6c04",
     "e95e9076-6460-406d-a1f6-9534f8128780",
     "0f758f0e-8a8d-45c1-bba0-565b26599ca6"
   ]
