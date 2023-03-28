@@ -6,48 +6,6 @@
       "settings": {
       }
     },
-    "e95e9076-6460-406d-a1f6-9534f8128780": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15086721335357__e95e9076-6460-406d-a1f6-9534f8128780-1671478843cc01f4b4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Koen De Wulf",
-            "heading_size": "h1"
-          }
-        },
-        "template--15086721335357__e95e9076-6460-406d-a1f6-9534f8128780-1671478843cc01f4b4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Koen ziet zijn publiek graag en dat is wederzijds. Hij heeft dan ook een open geest en gaat zelden een creatieve uitdaging uit de weg.<\/p><p><br\/>Of het nu gaat over comedy, muzikaal entertainment, presentatie, gastacteur, interviewer, cartoonist, auteur, ja zelfs schoenmaker, Koen is altijd te vinden voor iets nieuws, iets leuks, iets 'anders'. <\/p><p>Als daar bovendien een breedmaatschappelijke waarde kan worden aan gekoppeld, is er niet veel nodig om hem te overtuigen. Dat vertaalt zich in zijn themavoorstellingen, zijn liedjes en teksten.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15086721335357__e95e9076-6460-406d-a1f6-9534f8128780-1671478843cc01f4b4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Koop Tickets",
-            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMesseKoenDewulf"
-          }
-        }
-      },
-      "block_order": [
-        "template--15086721335357__e95e9076-6460-406d-a1f6-9534f8128780-1671478843cc01f4b4-0",
-        "template--15086721335357__e95e9076-6460-406d-a1f6-9534f8128780-1671478843cc01f4b4-1",
-        "template--15086721335357__e95e9076-6460-406d-a1f6-9534f8128780-1671478843cc01f4b4-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/E09F58F3-5EDC-4CB3-B839-2147A677A4B9.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left"
-      }
-    },
     "0f758f0e-8a8d-45c1-bba0-565b26599ca6": {
       "type": "image-with-text",
       "blocks": {
@@ -135,7 +93,6 @@
   },
   "order": [
     "main",
-    "e95e9076-6460-406d-a1f6-9534f8128780",
     "0f758f0e-8a8d-45c1-bba0-565b26599ca6",
     "a7511070-7840-4b4d-902f-82edbc4ee7f3"
   ]
