@@ -6,38 +6,74 @@
       "settings": {
       }
     },
-    "a7511070-7840-4b4d-902f-82edbc4ee7f3": {
+    "7fc0fc82-3d30-45af-90b6-2ab39047110f": {
       "type": "image-with-text",
       "blocks": {
-        "template--15086721335357__a7511070-7840-4b4d-902f-82edbc4ee7f3-1678793323ac33c6fd-0": {
+        "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Thomas Smith",
+            "heading": "02\/07 - Smaakmarkt",
             "heading_size": "h1"
           }
         },
-        "template--15086721335357__a7511070-7840-4b4d-902f-82edbc4ee7f3-1678793323ac33c6fd-1": {
+        "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Een comedian die flegma en flow van de pure Engelse stand-up comedy weet te vertalen naar een Nederlandstalig equivalent. Observatie, improvisatie, knipoog, waarheid en fantasie. <\/p><p>Sociale en spirituele beschouwingen worden gekoppeld aan alledaagse gebeurtenissen en observaties. Luchtige zaken, maar evengoed maatschappelijke thema's. Wervelende energie, relevant, een standpunt en diepgang. <\/p>",
+            "text": "<p>Op 2 Juli nodigt Smaak van Waas jullie uit op de SMAAKmarkt!<\/p><p>Wederom komen de producenten hun lekkernijen uit het waasland voorstellen. <\/p><p>Ontdek, proef en geniet van lekkere en lokale producten!<\/p>",
             "text_style": "body"
-          }
-        },
-        "template--15086721335357__a7511070-7840-4b4d-902f-82edbc4ee7f3-1678793323ac33c6fd-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Koop tickets",
-            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMesseHanSolo"
           }
         }
       },
       "block_order": [
-        "template--15086721335357__a7511070-7840-4b4d-902f-82edbc4ee7f3-1678793323ac33c6fd-0",
-        "template--15086721335357__a7511070-7840-4b4d-902f-82edbc4ee7f3-1678793323ac33c6fd-1",
-        "template--15086721335357__a7511070-7840-4b4d-902f-82edbc4ee7f3-1678793323ac33c6fd-2"
+        "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-0",
+        "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-1"
+      ],
+      "custom_css": [
+        "img {width: 100%; height: auto;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Koen_dewulf-3.png",
+        "image": "shopify:\/\/shop_images\/tempImage8CNIgF.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "93a96a2f-2177-406e-bcfa-44bd0fe1b456": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-0",
+        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-1",
+        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-2"
+      ],
+      "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -51,6 +87,7 @@
   },
   "order": [
     "main",
-    "a7511070-7840-4b4d-902f-82edbc4ee7f3"
+    "7fc0fc82-3d30-45af-90b6-2ab39047110f",
+    "93a96a2f-2177-406e-bcfa-44bd0fe1b456"
   ]
 }
