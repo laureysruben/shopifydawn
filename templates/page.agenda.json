@@ -49,34 +49,27 @@
         "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "07\/07 - sneukelwandeltocht",
             "heading_size": "h1"
           }
         },
         "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Neem deel aan de jaarlijkse sneukelwandeltocht van Sluize kermis! <\/p><p>Meer info bij de organisatie.<\/p>",
             "text_style": "body"
-          }
-        },
-        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
           }
         }
       },
       "block_order": [
         "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-0",
-        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-1",
-        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-2"
+        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/347092648_249758354302265_2313740396285433646_n.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
+        "desktop_image_width": "small",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
