@@ -76,11 +76,57 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "left"
       }
+    },
+    "a0cf1e4a-1460-4ba1-9a1a-e0228caed491": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19046808781149__a0cf1e4a-1460-4ba1-9a1a-e0228caed491-1685620798df47600f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "18\/07 - Pasar zomert",
+            "heading_size": "h1"
+          }
+        },
+        "template--19046808781149__a0cf1e4a-1460-4ba1-9a1a-e0228caed491-1685620798df47600f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enthousiaste vrijwilligers van Pasar nemen je mee op sleeptouw om de meest verrassende plekjes in Oost-Vlaanderen te ontdekken tijdens een avondwandeling. <\/p><p>In totaal staan in <strong>Oost-Vlaanderen 40 schitterende avondwandelingen en 250 Pasar-vrijwilligers<\/strong> voor je klaar! <\/p><p>Op 18\/07 kan je meewandelen rond Overslag met vertrek en aankomst aan De Messe.<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19046808781149__a0cf1e4a-1460-4ba1-9a1a-e0228caed491-1685620798df47600f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Meer info",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19046808781149__a0cf1e4a-1460-4ba1-9a1a-e0228caed491-1685620798df47600f-0",
+        "template--19046808781149__a0cf1e4a-1460-4ba1-9a1a-e0228caed491-1685620798df47600f-1",
+        "template--19046808781149__a0cf1e4a-1460-4ba1-9a1a-e0228caed491-1685620798df47600f-2"
+      ],
+      "custom_css": [
+        "img {width: 100%; height: auto;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/logo_pasar_zomert_2023.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
     }
   },
   "order": [
     "main",
     "7fc0fc82-3d30-45af-90b6-2ab39047110f",
-    "93a96a2f-2177-406e-bcfa-44bd0fe1b456"
+    "93a96a2f-2177-406e-bcfa-44bd0fe1b456",
+    "a0cf1e4a-1460-4ba1-9a1a-e0228caed491"
   ]
 }
