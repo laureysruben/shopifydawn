@@ -12,35 +12,27 @@
         "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-0": {
           "type": "heading",
           "settings": {
-            "heading": "19-20\/08 - Ambachtelijk weekend",
+            "heading": "09\/09 - Brouwerijfeesten",
             "heading_size": "h1"
           }
         },
         "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-1": {
           "type": "text",
           "settings": {
-            "text": "<p> Het Ambachtelijk Weekend vindt jaarlijks plaats en kun je vrij bezoeken op zaterdag tussen 12u en 18u en op zondag tussen 10u en 18u.<\/p><p>Onder het thema 'beestenboel' zetten ambachtslui en creatievelingen dit jaar opnieuw hun deuren open. Honderden kunstenaars en hobbyisten tonen in de verschillende Wase gemeenten en in de Zeeuws-Vlaamse dorpen tussen Terneuzen en Hulst hun talenten.<\/p>",
+            "text": "<p>Zoals elk jaar vieren we tijdens het 2de weekend van September de verjaardag van onze brouwerij. Dit jaar is het 10 jaar geleden dat we ons eerste bier uitbrachten, dus we zullen er een lap op geven!<\/p>",
             "text_style": "body"
-          }
-        },
-        "b2d8668a-7847-4dcf-9a05-38bf643f56b8": {
-          "type": "button",
-          "settings": {
-            "button_label": "Meer info",
-            "button_link": "https:\/\/www.ambachtelijkweekend.be"
           }
         }
       },
       "block_order": [
         "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-0",
-        "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-1",
-        "b2d8668a-7847-4dcf-9a05-38bf643f56b8"
+        "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-1"
       ],
       "custom_css": [
         "img {width: 100%; height: auto;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/logo.png",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-06-01_at_14.45.21.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -57,22 +49,22 @@
         "template--19046808781149__b5b65461-3600-4801-a8e4-9f0378d6a7c6-1685620798df47600f-0": {
           "type": "heading",
           "settings": {
-            "heading": "19\/08 - Muzikale zomeravond",
+            "heading": "24\/09 - Comedy@De Messe",
             "heading_size": "h1"
           }
         },
         "template--19046808781149__b5b65461-3600-4801-a8e4-9f0378d6a7c6-1685620798df47600f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Een mooie zomeravond op het terras van De Messe met gratis live muziek!<\/p><p>Vorklift is een instrumentaal trio. Eigenzinnige, genrefluïde pianist Eli Coppens wordt ondersteund door bassist Inigo Grau en drummer Paul De Smet. Resultaat: pittige grooves en zweverige klankwolken geïnspireerd door zowel modern jazz (GoGo Penguin, Immortal Onion, Alfa Mist, Robert Glasper...) als progrock, neo-soul, EDM en metal.<\/p>",
+            "text": "<h2>Thomas Smith<\/h2><p>Een comedian die flegma en flow van de pure Engelse stand-up comedy weet te vertalen naar een Nederlandstalig equivalent. Observatie, improvisatie, knipoog, waarheid en fantasie. <\/p><p>Sociale en spirituele beschouwingen worden gekoppeld aan alledaagse gebeurtenissen en observaties. Luchtige zaken, maar evengoed maatschappelijke thema's. Wervelende energie, relevant, een standpunt en diepgang. <\/p>",
             "text_style": "body"
           }
         },
         "36d28e36-56c9-46e1-b73e-4201587c3efc": {
           "type": "button",
           "settings": {
-            "button_label": "Meer info",
-            "button_link": "https:\/\/vi.be\/platform\/vorklift"
+            "button_label": "Koop tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMesseThomasSmith"
           }
         }
       },
@@ -82,7 +74,7 @@
         "36d28e36-56c9-46e1-b73e-4201587c3efc"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/e72d8974-3400-4dbf-96d2-f0a426114487_jpg.jpg",
+        "image": "shopify:\/\/shop_images\/Koen_dewulf-3.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
