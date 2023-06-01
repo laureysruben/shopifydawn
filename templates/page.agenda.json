@@ -59,11 +59,19 @@
             "text": "<p>Neem deel aan de jaarlijkse sneukelwandeltocht van Sluize kermis! <\/p><p>Meer info bij de organisatie.<\/p>",
             "text_style": "body"
           }
+        },
+        "48c129e6-736d-4458-8747-f2d4daa077fe": {
+          "type": "button",
+          "settings": {
+            "button_label": "Meer info",
+            "button_link": "https:\/\/www.facebook.com\/profile.php?id=100017292728331"
+          }
         }
       },
       "block_order": [
         "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-0",
-        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-1"
+        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-1",
+        "48c129e6-736d-4458-8747-f2d4daa077fe"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/347092648_249758354302265_2313740396285433646_n.jpg",
