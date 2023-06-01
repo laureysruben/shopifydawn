@@ -124,5 +124,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "summary.list-menu__item > span {font-weight: bold;}"
+    ]
   }
 }
