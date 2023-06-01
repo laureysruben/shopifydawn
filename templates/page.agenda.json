@@ -1,0 +1,56 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page-notitle",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "a7511070-7840-4b4d-902f-82edbc4ee7f3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15086721335357__a7511070-7840-4b4d-902f-82edbc4ee7f3-1678793323ac33c6fd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Thomas Smith",
+            "heading_size": "h1"
+          }
+        },
+        "template--15086721335357__a7511070-7840-4b4d-902f-82edbc4ee7f3-1678793323ac33c6fd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Een comedian die flegma en flow van de pure Engelse stand-up comedy weet te vertalen naar een Nederlandstalig equivalent. Observatie, improvisatie, knipoog, waarheid en fantasie. <\/p><p>Sociale en spirituele beschouwingen worden gekoppeld aan alledaagse gebeurtenissen en observaties. Luchtige zaken, maar evengoed maatschappelijke thema's. Wervelende energie, relevant, een standpunt en diepgang. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15086721335357__a7511070-7840-4b4d-902f-82edbc4ee7f3-1678793323ac33c6fd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMesseHanSolo"
+          }
+        }
+      },
+      "block_order": [
+        "template--15086721335357__a7511070-7840-4b4d-902f-82edbc4ee7f3-1678793323ac33c6fd-0",
+        "template--15086721335357__a7511070-7840-4b4d-902f-82edbc4ee7f3-1678793323ac33c6fd-1",
+        "template--15086721335357__a7511070-7840-4b4d-902f-82edbc4ee7f3-1678793323ac33c6fd-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Koen_dewulf-3.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a7511070-7840-4b4d-902f-82edbc4ee7f3"
+  ]
+}
