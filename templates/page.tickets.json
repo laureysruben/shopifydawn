@@ -47,10 +47,96 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "left"
       }
+    },
+    "7ce3a43e-32fe-4aa4-bf14-684c13df2945": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15086721335357__7ce3a43e-32fe-4aa4-bf14-684c13df2945-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "ygor uit Poperinge",
+            "heading_size": "h1"
+          }
+        },
+        "template--15086721335357__7ce3a43e-32fe-4aa4-bf14-684c13df2945-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>West- Vlaamse comedy met een hoek af.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15086721335357__7ce3a43e-32fe-4aa4-bf14-684c13df2945-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop Tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedydemesseYgoruitPoperinge"
+          }
+        }
+      },
+      "block_order": [
+        "template--15086721335357__7ce3a43e-32fe-4aa4-bf14-684c13df2945-heading-1",
+        "template--15086721335357__7ce3a43e-32fe-4aa4-bf14-684c13df2945-text-1",
+        "template--15086721335357__7ce3a43e-32fe-4aa4-bf14-684c13df2945-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Ygor_uit_Poperinge.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "59595530-3914-43e8-9074-2b1c9198d821": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15086721335357__59595530-3914-43e8-9074-2b1c9198d821-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Jeroen Verdick",
+            "heading_size": "h1"
+          }
+        },
+        "template--15086721335357__59595530-3914-43e8-9074-2b1c9198d821-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jeroen Verdick is van oerdegelijke Kempische makelij: goedlachs, gevat en met aanstekelijke tongval. Omdat een job als financieel consultant toch niet de gedroomde dagtaak bleek, probeerde Jeroen het in 2016 op een podium. Hij bewees meteen dat Kempenaars meer humor in zich hebben dan hun komisch accent alleen en schopte het in dat jaar als rookie tot in de halve finale van ‘Humo’s Comedy Cup’. Het leverde hem ook de felbegeerde job van voice-over van 'Love Island' op, iets waarbij zijn scherp analytisch vermogen als boekhouder alsnog van pas kwam.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15086721335357__59595530-3914-43e8-9074-2b1c9198d821-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop tickets",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15086721335357__59595530-3914-43e8-9074-2b1c9198d821-heading-1",
+        "template--15086721335357__59595530-3914-43e8-9074-2b1c9198d821-text-1",
+        "template--15086721335357__59595530-3914-43e8-9074-2b1c9198d821-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Jeroen_verdict_07e232b5-a658-4d9b-9503-5301f85fbade.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
     }
   },
   "order": [
     "main",
-    "a7511070-7840-4b4d-902f-82edbc4ee7f3"
+    "a7511070-7840-4b4d-902f-82edbc4ee7f3",
+    "7ce3a43e-32fe-4aa4-bf14-684c13df2945",
+    "59595530-3914-43e8-9074-2b1c9198d821"
   ]
 }
