@@ -131,12 +131,55 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "left"
       }
+    },
+    "1a975f2e-4345-437d-8eb0-35920ef30ec8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15086721335357__1a975f2e-4345-437d-8eb0-35920ef30ec8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fer-o bbq workshop",
+            "heading_size": "h1"
+          }
+        },
+        "template--15086721335357__1a975f2e-4345-437d-8eb0-35920ef30ec8-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ontdek de kunst van het barbecueën op een ander niveau bij de FER-O BBQ Workshop! Sfeer en gezelligheid staan hier centraal. <\/p><p>Ben je iemand die van lekker eten houdt of ben je eerder een enthousiaste hobbykok? Dan is deze workshop iets voor jou!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15086721335357__1a975f2e-4345-437d-8eb0-35920ef30ec8-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/FerObbqworkshop"
+          }
+        }
+      },
+      "block_order": [
+        "template--15086721335357__1a975f2e-4345-437d-8eb0-35920ef30ec8-heading-1",
+        "template--15086721335357__1a975f2e-4345-437d-8eb0-35920ef30ec8-text-1",
+        "template--15086721335357__1a975f2e-4345-437d-8eb0-35920ef30ec8-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FerObbqworkshop.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
     }
   },
   "order": [
     "main",
     "a7511070-7840-4b4d-902f-82edbc4ee7f3",
     "7ce3a43e-32fe-4aa4-bf14-684c13df2945",
-    "59595530-3914-43e8-9074-2b1c9198d821"
+    "59595530-3914-43e8-9074-2b1c9198d821",
+    "1a975f2e-4345-437d-8eb0-35920ef30ec8"
   ]
 }
