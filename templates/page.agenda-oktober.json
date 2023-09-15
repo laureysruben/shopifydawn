@@ -12,31 +12,39 @@
         "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-0": {
           "type": "heading",
           "settings": {
-            "heading": "02\/07 - Smaakmarkt",
+            "heading": "07\/10 Fer-O bbq workshop",
             "heading_size": "h1"
           }
         },
         "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Op 2 Juli nodigt Smaak van Waas jullie uit op de SMAAKmarkt!<\/p><p>Wederom komen de producenten hun lekkernijen uit het waasland voorstellen. <\/p><p>Ontdek, proef en geniet van lekkere en lokale producten!<\/p>",
+            "text": "<p>Ontdek de kunst van het barbecueën op een ander niveau bij de FER-O BBQ Workshop! Sfeer en gezelligheid staan hier centraal. <\/p><p>Ben je iemand die van lekker eten houdt of ben je eerder een enthousiaste hobbykok? Dan is deze workshop iets voor jou!<\/p>",
             "text_style": "body"
+          }
+        },
+        "4448ff03-7a87-4ca8-9c21-a6542bedef9a": {
+          "type": "button",
+          "settings": {
+            "button_label": "Schrijf je nu in!",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/FerObbqworkshop"
           }
         }
       },
       "block_order": [
         "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-0",
-        "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-1"
+        "template--19046808781149__7fc0fc82-3d30-45af-90b6-2ab39047110f-1685620798df47600f-1",
+        "4448ff03-7a87-4ca8-9c21-a6542bedef9a"
       ],
       "custom_css": [
         "img {width: 100%; height: auto;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tempImage8CNIgF.jpg",
+        "image": "shopify:\/\/shop_images\/FerObbqworkshop_7e352f65-5ae2-4789-beff-5e8dc07665c7.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -49,14 +57,14 @@
         "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-0": {
           "type": "heading",
           "settings": {
-            "heading": "07\/07 - sneukelwandeltocht",
+            "heading": "14-15\/10 Harmonie Concordia",
             "heading_size": "h1"
           }
         },
         "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Neem deel aan de jaarlijkse sneukelwandeltocht van Sluize kermis! <\/p><p>Meer info bij de organisatie.<\/p>",
+            "text": "<p>Elk najaar organiseren wij een concertweekend rond een bepaald thema. Deze concerten vormen steeds het hoogtepunt van ons muzikale jaar en zijn dan ook telkens uitverkocht.<br\/>Snel tickets bestellen is dus de boodschap!<\/p><p>Dit jaar is het thema ‘Van eigen bodem’. <br\/>We blijven dus dicht bij huis en brengen werken die verband houden met onze vereniging. Van eigen bodem betekent ook dat we werken brengen die op eigen bodem gecomponeerd zijn. Gezien onze vereniging grensoverschrijdend is, kan deze muziek zowel uit Nederland als België komen.<\/p>",
             "text_style": "body"
           }
         },
@@ -64,7 +72,7 @@
           "type": "button",
           "settings": {
             "button_label": "Meer info",
-            "button_link": "https:\/\/www.facebook.com\/profile.php?id=100017292728331"
+            "button_link": "https:\/\/www.concordiaoverslag.be\/themaconcert\/"
           }
         }
       },
@@ -74,13 +82,13 @@
         "48c129e6-736d-4458-8747-f2d4daa077fe"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/347092648_249758354302265_2313740396285433646_n.jpg",
+        "image": "shopify:\/\/shop_images\/Affiche-met-sponsors-finaal_jpg.webp",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left"
       }
@@ -91,22 +99,22 @@
         "template--19046808781149__a0cf1e4a-1460-4ba1-9a1a-e0228caed491-1685620798df47600f-0": {
           "type": "heading",
           "settings": {
-            "heading": "18\/07 - Pasar zomert",
+            "heading": "22\/10 - Comedy@De Messe Ygor uit Poperinge",
             "heading_size": "h1"
           }
         },
         "template--19046808781149__a0cf1e4a-1460-4ba1-9a1a-e0228caed491-1685620798df47600f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Enthousiaste vrijwilligers van Pasar nemen je mee op sleeptouw om de meest verrassende plekjes in Oost-Vlaanderen te ontdekken tijdens een avondwandeling. <\/p><p>In totaal staan in <strong>Oost-Vlaanderen 40 schitterende avondwandelingen en 250 Pasar-vrijwilligers<\/strong> voor je klaar! <\/p><p>Op 18\/07 kan je meewandelen rond Overslag met vertrek en aankomst aan De Messe.<\/p><p><\/p>",
+            "text": "<p>West- Vlaamse comedy met een hoek af.<\/p>",
             "text_style": "body"
           }
         },
         "template--19046808781149__a0cf1e4a-1460-4ba1-9a1a-e0228caed491-1685620798df47600f-2": {
           "type": "button",
           "settings": {
-            "button_label": "Meer info",
-            "button_link": "https:\/\/www.pasar.be\/zomert"
+            "button_label": "Koop tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedydemesseYgoruitPoperinge"
           }
         }
       },
@@ -119,52 +127,10 @@
         "img {width: 100%; height: auto;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/logo_pasar_zomert_2023.png",
+        "image": "shopify:\/\/shop_images\/ComedydemesseYgoruitPoperinge.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left"
-      }
-    },
-    "b5b65461-3600-4801-a8e4-9f0378d6a7c6": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--19046808781149__b5b65461-3600-4801-a8e4-9f0378d6a7c6-1685620798df47600f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "22\/07 - Muzikale zomeravond",
-            "heading_size": "h1"
-          }
-        },
-        "template--19046808781149__b5b65461-3600-4801-a8e4-9f0378d6a7c6-1685620798df47600f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Een mooie zomeravond op het terras van De Messe met gratis live muziek!<\/p><p>ROSANN is sinds 2019 actief als singersongwriter en werkt sindsdien hard aan haar carrière. Zo werd ze Halve Finalist in The Voice van Vlaanderen 2022 waar ze Vlaanderen verraste met onder andere haar eigen Nederlandstalige vertalingen op wereldhits als \"Creep\".<\/p><p>Nederlandstalige pop met kenmerken van kleinkunst, beeldend beschreven en vertolkt in een eigentijds stemgeluid.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "36d28e36-56c9-46e1-b73e-4201587c3efc": {
-          "type": "button",
-          "settings": {
-            "button_label": "Meer info",
-            "button_link": "https:\/\/vi.be\/platform\/ROSANN"
-          }
-        }
-      },
-      "block_order": [
-        "template--19046808781149__b5b65461-3600-4801-a8e4-9f0378d6a7c6-1685620798df47600f-0",
-        "template--19046808781149__b5b65461-3600-4801-a8e4-9f0378d6a7c6-1685620798df47600f-1",
-        "36d28e36-56c9-46e1-b73e-4201587c3efc"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/d578ee22-643c-449d-905b-b1e2abd75db3_jpg.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -177,7 +143,6 @@
     "main",
     "7fc0fc82-3d30-45af-90b6-2ab39047110f",
     "93a96a2f-2177-406e-bcfa-44bd0fe1b456",
-    "a0cf1e4a-1460-4ba1-9a1a-e0228caed491",
-    "b5b65461-3600-4801-a8e4-9f0378d6a7c6"
+    "a0cf1e4a-1460-4ba1-9a1a-e0228caed491"
   ]
 }
