@@ -6,20 +6,46 @@
       "settings": {
       }
     },
+    "1b01f2e1-5d8d-4aa4-b64c-ee4769b3cfc9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19704597283165__1b01f2e1-5d8d-4aa4-b64c-ee4769b3cfc9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "09\/12 - Concert harmonie Eendracht",
+            "heading_size": "h1"
+          }
+        },
+        "template--19704597283165__1b01f2e1-5d8d-4aa4-b64c-ee4769b3cfc9-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Het concert van harmonie eendracht werd helaas geannuleerd.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19704597283165__1b01f2e1-5d8d-4aa4-b64c-ee4769b3cfc9-heading-1",
+        "template--19704597283165__1b01f2e1-5d8d-4aa4-b64c-ee4769b3cfc9-text-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "93a96a2f-2177-406e-bcfa-44bd0fe1b456": {
       "type": "image-with-text",
       "blocks": {
         "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-0": {
           "type": "heading",
           "settings": {
-            "heading": "26\/11 - Comedy@De Messe Jeroen Verdick",
+            "heading": "16-17\/12 - Kerstmarkt Overslag",
             "heading_size": "h1"
           }
         },
         "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Jeroen Verdick is van oerdegelijke Kempische makelij: goedlachs, gevat en met aanstekelijke tongval. Omdat een job als financieel consultant toch niet de gedroomde dagtaak bleek, probeerde Jeroen het in 2016 op een podium. Hij bewees meteen dat Kempenaars meer humor in zich hebben dan hun komisch accent alleen en schopte het in dat jaar als rookie tot in de halve finale van ‘Humo’s Comedy Cup’. Het leverde hem ook de felbegeerde job van voice-over van 'Love Island' op, iets waarbij zijn scherp analytisch vermogen als boekhouder alsnog van pas kwam.<\/p>",
+            "text": "<p>Net als vorig jaar organiseren we in samenwerking met wijkplatform Overslag, wijkplatform Kalve-Ramonshoek en Feestcomité Overslag een gezellige kerstmarkt in én rond De Messe.<\/p>",
             "text_style": "body"
           }
         },
@@ -37,13 +63,55 @@
         "48c129e6-736d-4458-8747-f2d4daa077fe"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ComedyDeMesseJeroenVerdick.jpg",
+        "image": "shopify:\/\/shop_images\/image001.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "349bd50e-a578-4bcb-85da-b1a817038e66": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19704597283165__349bd50e-a578-4bcb-85da-b1a817038e66-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "30\/12 - Poppentheater Hendrick De Vos",
+            "heading_size": "h1"
+          }
+        },
+        "template--19704597283165__349bd50e-a578-4bcb-85da-b1a817038e66-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Poppentheaer Hendrick De Vos brengt het verhaal van de held Ridder Riddelhof. Heel lang geleden in het koninkrijk Cicero was er onrust. Dat koninkrijk kwam namelijk zonder koning te zitten en daar wist Riddelhof wel raad mee.<\/p><p>Stap in een wereld volg magie en ontdekt de mooiste marionetten en lichteffecten, de prachtige live muziek in een prachtig middeleeuws decor in de kerk.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19704597283165__349bd50e-a578-4bcb-85da-b1a817038e66-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/PoppentheaterHendrickdevosridderriddelhof"
+          }
+        }
+      },
+      "block_order": [
+        "template--19704597283165__349bd50e-a578-4bcb-85da-b1a817038e66-heading-1",
+        "template--19704597283165__349bd50e-a578-4bcb-85da-b1a817038e66-text-1",
+        "template--19704597283165__349bd50e-a578-4bcb-85da-b1a817038e66-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FLYER_RIDDELHOF_DEMESSE-1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left"
       }
@@ -51,6 +119,8 @@
   },
   "order": [
     "main",
-    "93a96a2f-2177-406e-bcfa-44bd0fe1b456"
+    "1b01f2e1-5d8d-4aa4-b64c-ee4769b3cfc9",
+    "93a96a2f-2177-406e-bcfa-44bd0fe1b456",
+    "349bd50e-a578-4bcb-85da-b1a817038e66"
   ]
 }
