@@ -1,0 +1,56 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page-notitle",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "93a96a2f-2177-406e-bcfa-44bd0fe1b456": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "26\/11 - Comedy@De Messe Jeroen Verdick",
+            "heading_size": "h1"
+          }
+        },
+        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jeroen Verdick is van oerdegelijke Kempische makelij: goedlachs, gevat en met aanstekelijke tongval. Omdat een job als financieel consultant toch niet de gedroomde dagtaak bleek, probeerde Jeroen het in 2016 op een podium. Hij bewees meteen dat Kempenaars meer humor in zich hebben dan hun komisch accent alleen en schopte het in dat jaar als rookie tot in de halve finale van ‘Humo’s Comedy Cup’. Het leverde hem ook de felbegeerde job van voice-over van 'Love Island' op, iets waarbij zijn scherp analytisch vermogen als boekhouder alsnog van pas kwam.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "48c129e6-736d-4458-8747-f2d4daa077fe": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMesseJeroenVerdick"
+          }
+        }
+      },
+      "block_order": [
+        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-0",
+        "template--19046808781149__93a96a2f-2177-406e-bcfa-44bd0fe1b456-1685620798df47600f-1",
+        "48c129e6-736d-4458-8747-f2d4daa077fe"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ComedyDeMesseJeroenVerdick.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "93a96a2f-2177-406e-bcfa-44bd0fe1b456"
+  ]
+}
