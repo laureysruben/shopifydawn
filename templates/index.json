@@ -58,6 +58,61 @@
         "full_width": true
       }
     },
+    "f25bd70a-94dc-47e0-8630-fe1df5c0f8f5": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14382661992509__f25bd70a-94dc-47e0-8630-fe1df5c0f8f5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14382661992509__f25bd70a-94dc-47e0-8630-fe1df5c0f8f5-title-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "template--14382661992509__f25bd70a-94dc-47e0-8630-fe1df5c0f8f5-text-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "template--14382661992509__f25bd70a-94dc-47e0-8630-fe1df5c0f8f5-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14382661992509__f25bd70a-94dc-47e0-8630-fe1df5c0f8f5-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--14382661992509__f25bd70a-94dc-47e0-8630-fe1df5c0f8f5-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--14382661992509__f25bd70a-94dc-47e0-8630-fe1df5c0f8f5-text-1",
+        "template--14382661992509__f25bd70a-94dc-47e0-8630-fe1df5c0f8f5-title-1",
+        "template--14382661992509__f25bd70a-94dc-47e0-8630-fe1df5c0f8f5-text-2",
+        "template--14382661992509__f25bd70a-94dc-47e0-8630-fe1df5c0f8f5-price-1",
+        "template--14382661992509__f25bd70a-94dc-47e0-8630-fe1df5c0f8f5-buy_buttons-1",
+        "template--14382661992509__f25bd70a-94dc-47e0-8630-fe1df5c0f8f5-share-1"
+      ],
+      "settings": {
+        "product": "brouwerijbezoek",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -73,11 +128,55 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "0d9d7a75-f203-4032-8fdb-42d1b16772b0": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14382661992509__0d9d7a75-f203-4032-8fdb-42d1b16772b0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Agenda De Messe",
+            "heading_size": "h1"
+          }
+        },
+        "template--14382661992509__0d9d7a75-f203-4032-8fdb-42d1b16772b0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ontdekt de agenda van van ons proeflokaal De Messe en bestel tickets.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14382661992509__0d9d7a75-f203-4032-8fdb-42d1b16772b0-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop tickets",
+            "button_link": "shopify:\/\/pages\/tickets"
+          }
+        }
+      },
+      "block_order": [
+        "template--14382661992509__0d9d7a75-f203-4032-8fdb-42d1b16772b0-heading-1",
+        "template--14382661992509__0d9d7a75-f203-4032-8fdb-42d1b16772b0-text-1",
+        "template--14382661992509__0d9d7a75-f203-4032-8fdb-42d1b16772b0-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Najaar_in_de_Messe.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
-    "featured_products"
+    "f25bd70a-94dc-47e0-8630-fe1df5c0f8f5",
+    "featured_products",
+    "0d9d7a75-f203-4032-8fdb-42d1b16772b0"
   ]
 }
