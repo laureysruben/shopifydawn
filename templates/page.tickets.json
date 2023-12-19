@@ -82,10 +82,136 @@
         "image": "shopify:\/\/shop_images\/Jeroen_verdict_d4f449a4-b436-4220-b327-6847edbbc2f0.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "daeac803-a0f7-4224-a9c0-eb008fe2fc87": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15086721335357__daeac803-a0f7-4224-a9c0-eb008fe2fc87-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Comedy @ De Messe - Piet De Praitere",
+            "heading_size": "h1"
+          }
+        },
+        "template--15086721335357__daeac803-a0f7-4224-a9c0-eb008fe2fc87-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Piet De Praitere is schrijver, acteur en stand-up comedian. Een fabuleuze verteller met een absurde stijl vol gratie en vaardigheid. Onvoorspelbaar en gracieus. Een rasechte performer en oude zak die momenteel zijn tweede jeugd beleeft.<br\/>Elke generatie heeft afwijkende performers die niet in een hokje te plaatsen zijn. Piet De Praitere is zo iemand.<br\/>Na zijn theateropleiding stond hij mee aan de wieg van de Vlaamse comedy.<br\/>Hierdoor komt hij terecht bij Studio Kafka, een humoristisch radioprogramma op Studio Brussel, waarin hij samenwerkte met onder meer Kamagurka. Uit dit programma ontstond zijn eerste typetje Etienne met het open verhemelte. Daarna volgen een tiental avondvullende soloshows.<br\/>Als acteur vertolkte Piet verschillende rollen in films en TV-series zoals Bevergem, De Twaalf, Onder vuur, Nonkels, Chantal, …..<br\/><br\/>‘In zijn branche van de amusementswereld is de ongeregelde Piet De Praitere stukken grappiger dan gemiddeld’ (RV – Humo)<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15086721335357__daeac803-a0f7-4224-a9c0-eb008fe2fc87-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMessePietDePraitere"
+          }
+        }
+      },
+      "block_order": [
+        "template--15086721335357__daeac803-a0f7-4224-a9c0-eb008fe2fc87-heading-1",
+        "template--15086721335357__daeac803-a0f7-4224-a9c0-eb008fe2fc87-text-1",
+        "template--15086721335357__daeac803-a0f7-4224-a9c0-eb008fe2fc87-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Jeroen_verdict-2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "4e31ebbc-8b67-4241-86d6-45c2a188ec74": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15086721335357__4e31ebbc-8b67-4241-86d6-45c2a188ec74-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Comedy @ De Messe - Yannick Noben",
+            "heading_size": "h1"
+          }
+        },
+        "template--15086721335357__4e31ebbc-8b67-4241-86d6-45c2a188ec74-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Yannick Noben, Een beroepsmilitiar uit Diepenbeek Limburg maakte zijn debuut in 2015. Hij wist alle wedstrijden waaraan hij deelnam te winnen of zichzelf van een podiumplek te verzekeren. <br\/><br\/>Hij raakte bekend door zijn eigen nieuwjaarsoverzicht voor Limburgers, is een MC op menig festival en doet veel maatwerk voor bedrijven. Hij werd al door mensen uit de scene benoemd als de hardstwerkende comedian. <br\/><br\/>ZIjn voorstellingen verkopen zichzelf binnen een aantal uren uit en hij is actief in  zowel het kleine circuit het circuit van de bedrijven en de culturele centra...<br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15086721335357__4e31ebbc-8b67-4241-86d6-45c2a188ec74-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMesseYannickNoben"
+          }
+        }
+      },
+      "block_order": [
+        "template--15086721335357__4e31ebbc-8b67-4241-86d6-45c2a188ec74-heading-1",
+        "template--15086721335357__4e31ebbc-8b67-4241-86d6-45c2a188ec74-text-1",
+        "template--15086721335357__4e31ebbc-8b67-4241-86d6-45c2a188ec74-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/luc_caals-2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "d38331a3-6a13-4893-b7b6-4f3e367a4446": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15086721335357__d38331a3-6a13-4893-b7b6-4f3e367a4446-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Comedy @ De Messe - Luc Caals",
+            "heading_size": "h1"
+          }
+        },
+        "template--15086721335357__d38331a3-6a13-4893-b7b6-4f3e367a4446-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Luc Caals is een Vlaams acteur, komiek en presentator.<br\/><br\/>De eerste bekendheid van Luc Caals kwam met het orkestje “The New Born”. In 1974 begeleidde hij eventjes de zangeres Micha Marah.<br\/><br\/>Naast zanger was Luc Caals vanaf 1980 ook 16 jaar lang artistiek directeur van Bredene Palace. In het spoor van zijn collega’s-cabaretiers Staf Permentier, Lou Marcel en Gust Lancier werkte hij eind jaren 80 en de eerste helft van de jaren 90 in het programma van Bobbejaan Schoepen in het amusementspark Bobbejaanland. Aan het begin van de jaren 90 van de 20e eeuw werd hij bekend door het Echt Antwaarps Teater. Daarna kwamen verschillende rollen in theater en op VTM, waar hij te zien was in onder andere Lili en Marleen, Familie, Bompa, Chez Bompa Lawijt, Pa heeft een lief en Kabouter Plop. In die laatste serie speelt hij de rol van Kabouter Smul. Als Kabouter Smul was Caals verscheidene keren op het witte doek te bewonderen en speelde in verschillende Specials mee. Hij speelt ook Paul Van Os in de Vlaamse serie Matroesjka’s 2. Hij had ook een gastrol in Crimi Clowns.<br\/><br\/>Wanneer Luc Caals niet te zien is op de televisie, houdt hij zich bezig met zijn theaterprogramma “Caals en Van Vooren”. Sinds 2007 vindt iedere zomer in Middelkerke de “Caals Comedy Club” plaats.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15086721335357__d38331a3-6a13-4893-b7b6-4f3e367a4446-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMesseLucCaals"
+          }
+        }
+      },
+      "block_order": [
+        "template--15086721335357__d38331a3-6a13-4893-b7b6-4f3e367a4446-heading-1",
+        "template--15086721335357__d38331a3-6a13-4893-b7b6-4f3e367a4446-text-1",
+        "template--15086721335357__d38331a3-6a13-4893-b7b6-4f3e367a4446-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/luc_caals.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left"
       }
@@ -94,6 +220,9 @@
   "order": [
     "main",
     "76f9d75e-dba8-4f9f-ac64-9d2a08ae343b",
-    "25b6ed38-0dbb-4b4e-8186-5b610a659301"
+    "25b6ed38-0dbb-4b4e-8186-5b610a659301",
+    "daeac803-a0f7-4224-a9c0-eb008fe2fc87",
+    "4e31ebbc-8b67-4241-86d6-45c2a188ec74",
+    "d38331a3-6a13-4893-b7b6-4f3e367a4446"
   ]
 }
