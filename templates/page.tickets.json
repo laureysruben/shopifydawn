@@ -47,10 +47,53 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "left"
       }
+    },
+    "25b6ed38-0dbb-4b4e-8186-5b610a659301": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15086721335357__25b6ed38-0dbb-4b4e-8186-5b610a659301-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Comedy @ De Messe - Nele Goossens",
+            "heading_size": "h1"
+          }
+        },
+        "template--15086721335357__25b6ed38-0dbb-4b4e-8186-5b610a659301-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>De in 1977 in Zoersel geboren actrice, danseres, zangeres en muzikante Nele Goossens, werd op slag een nationale vedette in de gedaante van Kelly, het tegendraads charismatische lief van Snelle Eddy, in Chris & Co.<br\/><br\/>In haar jeugd was ze reeds druk in de weer met muziek en dans. Ze nam danslessen en volgde acht jaar slagwerk aan de academie van Zandhoven en drumde enthousiast in de plaatselijke harmonie van het dorp.<br\/><br\/>In 1999 studeerde Nele af als meester in de kleinkunst aan Studio Herman Teirlinck.<br\/><br\/>Naast tv-rollen in Duts en Flikken, gooide zij hoge ogen in Het Toneelhuis, Theater Froefroe, de musical Daens, Kleinkunsteiland, De Vaginamonologen 2.0, Zoo of life, De zoete smaak der zone, Iedereen beroemd...<br\/><br\/>En niet het minst in haar cabaretvoostellingen, die steeds op een spontane manier het populaire weten te verenigen met het artistieke. Afgelopen jaren tourde ze met haar eigen cabaretshows doorheen Vlaanderen.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15086721335357__25b6ed38-0dbb-4b4e-8186-5b610a659301-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDemesseNelegoossens"
+          }
+        }
+      },
+      "block_order": [
+        "template--15086721335357__25b6ed38-0dbb-4b4e-8186-5b610a659301-heading-1",
+        "template--15086721335357__25b6ed38-0dbb-4b4e-8186-5b610a659301-text-1",
+        "template--15086721335357__25b6ed38-0dbb-4b4e-8186-5b610a659301-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Jeroen_verdict_d4f449a4-b436-4220-b327-6847edbbc2f0.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
     }
   },
   "order": [
     "main",
-    "76f9d75e-dba8-4f9f-ac64-9d2a08ae343b"
+    "76f9d75e-dba8-4f9f-ac64-9d2a08ae343b",
+    "25b6ed38-0dbb-4b4e-8186-5b610a659301"
   ]
 }
