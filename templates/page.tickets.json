@@ -6,48 +6,6 @@
       "settings": {
       }
     },
-    "76f9d75e-dba8-4f9f-ac64-9d2a08ae343b": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15086721335357__76f9d75e-dba8-4f9f-ac64-9d2a08ae343b-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Poppentheater Hendrick de Vos - Ridder Riddelhof",
-            "heading_size": "h1"
-          }
-        },
-        "template--15086721335357__76f9d75e-dba8-4f9f-ac64-9d2a08ae343b-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Heel lang geleden in een koninkrijk hier ver vandaag was er onrust. Dat koninkrijk ontbrak al jaren datgene wat van een koninkrijk een koninkrijk maakte, namelijk… een koning. <\/p><p>Wie zou er de nieuwe koning kunnen worden van het grote koninkrijk Cicero? <\/p><p>Kijken jullie mee? In een uniek kader, de kerk!<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15086721335357__76f9d75e-dba8-4f9f-ac64-9d2a08ae343b-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "koop tickets",
-            "button_link": "https:\/\/www.your-tickets.be\/events\/PoppentheaterHendrickdevosridderriddelhof"
-          }
-        }
-      },
-      "block_order": [
-        "template--15086721335357__76f9d75e-dba8-4f9f-ac64-9d2a08ae343b-heading-1",
-        "template--15086721335357__76f9d75e-dba8-4f9f-ac64-9d2a08ae343b-text-1",
-        "template--15086721335357__76f9d75e-dba8-4f9f-ac64-9d2a08ae343b-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/FLYER_RIDDELHOF_DEMESSE_1_-1.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left"
-      }
-    },
     "25b6ed38-0dbb-4b4e-8186-5b610a659301": {
       "type": "image-with-text",
       "blocks": {
@@ -219,7 +177,6 @@
   },
   "order": [
     "main",
-    "76f9d75e-dba8-4f9f-ac64-9d2a08ae343b",
     "25b6ed38-0dbb-4b4e-8186-5b610a659301",
     "daeac803-a0f7-4224-a9c0-eb008fe2fc87",
     "4e31ebbc-8b67-4241-86d6-45c2a188ec74",
