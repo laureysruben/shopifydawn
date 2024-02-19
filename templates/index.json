@@ -113,48 +113,6 @@
         "enable_video_looping": false
       }
     },
-    "0d9d7a75-f203-4032-8fdb-42d1b16772b0": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14382661992509__0d9d7a75-f203-4032-8fdb-42d1b16772b0-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Agenda De Messe",
-            "heading_size": "h1"
-          }
-        },
-        "template--14382661992509__0d9d7a75-f203-4032-8fdb-42d1b16772b0-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>De Messe is ons proeflokaal en evenementenruimte in de voormalige kerk van Overslag.<\/p><p>Het hele jaar door organiseren we hier tal van activiteiten. Ontdekt hier wat we de komende maanden voor jullie in petto hebben!<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14382661992509__0d9d7a75-f203-4032-8fdb-42d1b16772b0-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Koop tickets",
-            "button_link": "shopify:\/\/pages\/tickets"
-          }
-        }
-      },
-      "block_order": [
-        "template--14382661992509__0d9d7a75-f203-4032-8fdb-42d1b16772b0-heading-1",
-        "template--14382661992509__0d9d7a75-f203-4032-8fdb-42d1b16772b0-text-1",
-        "template--14382661992509__0d9d7a75-f203-4032-8fdb-42d1b16772b0-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Najaar_in_de_Messe.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left"
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -176,7 +134,6 @@
     "image_banner",
     "rich_text",
     "f25bd70a-94dc-47e0-8630-fe1df5c0f8f5",
-    "0d9d7a75-f203-4032-8fdb-42d1b16772b0",
     "featured_products"
   ]
 }
