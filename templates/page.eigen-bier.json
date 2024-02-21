@@ -18,7 +18,7 @@
         "1640640349b2d7b030-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Een eigen bier, dat klinkt toch als een topidee?! En dat kan bij ons zelf al in kleine hoeveelheden! <\/p><p>Upload een afbeelding, kies een tekstje en wij zorgen ervoor!<\/p>",
+            "text": "<p>Een eigen bier, dat klinkt toch als een topidee?! En dat kan bij ons zelf al in kleine hoeveelheden! <\/p><p>Bezorg ons een afbeelding, kies een tekstje en wij zorgen ervoor!<\/p>",
             "text_style": "body"
           }
         }
@@ -37,66 +37,6 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left"
-      }
-    },
-    "1640640244e4be42e3": {
-      "type": "featured-product",
-      "blocks": {
-        "16406402441124315e-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "16406402441124315e-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "16406402441124315e-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "16406402441124315e-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "16406402441124315e-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "16406402441124315e-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "16406402441124315e-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "16406402441124315e-1",
-        "16406402441124315e-2",
-        "16406402441124315e-3",
-        "16406402441124315e-4",
-        "16406402441124315e-5",
-        "16406402441124315e-6",
-        "16406402441124315e-7"
-      ],
-      "settings": {
-        "product": "bier-met-eigen-label",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false
       }
     },
     "1640640787a2108e5f": {
@@ -135,7 +75,6 @@
   "order": [
     "main",
     "1640640349565bfcd2",
-    "1640640244e4be42e3",
     "1640640787a2108e5f",
     "1640640406c3ac1fc4"
   ]
