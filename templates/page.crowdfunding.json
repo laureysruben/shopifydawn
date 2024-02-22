@@ -115,8 +115,8 @@
         "button_h8fmUm": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Ik heb honger!",
+            "button_link": "shopify:\/\/products\/bier-en-barbecue"
           }
         }
       },
