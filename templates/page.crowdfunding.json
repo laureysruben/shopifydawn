@@ -35,6 +35,9 @@
         "text_NEKQT7",
         "button_kRPgXz"
       ],
+      "custom_css": [
+        ".image-with-text {margin: 0;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/logoBroersbrons.png",
         "height": "small",
@@ -77,6 +80,9 @@
         "text_WNptKa",
         "button_RV4Y63"
       ],
+      "custom_css": [
+        ".image-with-text {margin: 0;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/logoBroerszilver.png",
         "height": "small",
@@ -118,6 +124,9 @@
         "heading_hTN6UG",
         "text_iacHUX",
         "button_xCKzKN"
+      ],
+      "custom_css": [
+        ".image-with-text {margin: 0;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/logoBroersgoud.png",
