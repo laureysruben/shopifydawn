@@ -89,11 +89,54 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "left"
       }
+    },
+    "image_with_text_JCrxnL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LWzjpD": {
+          "type": "heading",
+          "settings": {
+            "heading": "28\/04 - Comedy @ De Messe - Luc Caals",
+            "heading_size": "h1"
+          }
+        },
+        "text_ya6CLw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Luc Caals is een Vlaams acteur, komiek en presentator.<br\/><br\/>De eerste bekendheid van Luc Caals kwam met het orkestje “The New Born”. In 1974 begeleidde hij eventjes de zangeres Micha Marah.<br\/><br\/>Naast zanger was Luc Caals vanaf 1980 ook 16 jaar lang artistiek directeur van Bredene Palace. In het spoor van zijn collega’s-cabaretiers Staf Permentier, Lou Marcel en Gust Lancier werkte hij eind jaren 80 en de eerste helft van de jaren 90 in het programma van Bobbejaan Schoepen in het amusementspark Bobbejaanland. Aan het begin van de jaren 90 van de 20e eeuw werd hij bekend door het Echt Antwaarps Teater. Daarna kwamen verschillende rollen in theater en op VTM, waar hij te zien was in onder andere Lili en Marleen, Familie, Bompa, Chez Bompa Lawijt, Pa heeft een lief en Kabouter Plop. In die laatste serie speelt hij de rol van Kabouter Smul. Als Kabouter Smul was Caals verscheidene keren op het witte doek te bewonderen en speelde in verschillende Specials mee. Hij speelt ook Paul Van Os in de Vlaamse serie Matroesjka’s 2. Hij had ook een gastrol in Crimi Clowns.<br\/><br\/>Wanneer Luc Caals niet te zien is op de televisie, houdt hij zich bezig met zijn theaterprogramma “Caals en Van Vooren”. Sinds 2007 vindt iedere zomer in Middelkerke de “Caals Comedy Club” plaats.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_UikR3z": {
+          "type": "button",
+          "settings": {
+            "button_label": "Koop tickets",
+            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMesseLucCaals"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LWzjpD",
+        "text_ya6CLw",
+        "button_UikR3z"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/luc_caals.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_YBDnjQ",
-    "image_with_text_AKxyN7"
+    "image_with_text_AKxyN7",
+    "image_with_text_JCrxnL"
   ]
 }
