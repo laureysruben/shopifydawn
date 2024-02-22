@@ -20,10 +20,139 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "image_with_text_UVtnEp": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Vakk7A": {
+          "type": "heading",
+          "settings": {
+            "heading": "Beer for life - €200",
+            "heading_size": "h1"
+          }
+        },
+        "text_NEKQT7": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Levenslang jaarlijks 12*33cl af te halen in De Messe<\/li><li>Blijf steeds op de hoogte van de laatste nieuwe bieren én andere nieuwtjes uit de brouwerij<\/li><li>5% korting op alle consumpties en aankopen in De Messe<\/li><li>Bepaal mee wat het allereerste bier in die nieuwe ketels zal worden!<\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "button_kRPgXz": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ik wil levenslang bier!",
+            "button_link": "shopify:\/\/products\/beer-for-life"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Vakk7A",
+        "text_NEKQT7",
+        "button_kRPgXz"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/logoBroersbrons.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "image_with_text_DctVgt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gYcY74": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brouwer voor een dag - €500",
+            "heading_size": "h1"
+          }
+        },
+        "text_WNptKa": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Volg met 4 vrienden het volledige brouwproces, met deskundige uitleg van onze brouwers<\/li><li>Ontbijt in de brouwerij<\/li><li>Bierdegustatie<\/li><li>Brouwerslunch<\/li><li>Elk een bak bier naar keuze voor thuis<\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "button_RV4Y63": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ik kom brouwen!",
+            "button_link": "shopify:\/\/products\/brouwer-voor-een-dag"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gYcY74",
+        "text_WNptKa",
+        "button_RV4Y63"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/logoBroerszilver.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "image_with_text_mLdmJm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hTN6UG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brouw je eigen bier - €2000",
+            "heading_size": "h1"
+          }
+        },
+        "text_iacHUX": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>500 liter van je eigen unieke bier<\/li><li>Volg met 4 vrienden het volledige brouwproces, met deskundige uitleg van onze brouwers<\/li><li>Ontbijt in de brouwerij<\/li><li>Bierdegustatie<\/li><li>Brouwerslunch<\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "button_xCKzKN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ik wil mijn eigen bier!",
+            "button_link": "shopify:\/\/products\/brouw-je-eigen-bier"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hTN6UG",
+        "text_iacHUX",
+        "button_xCKzKN"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/logoBroersgoud.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
     }
   },
   "order": [
     "main",
-    "featured_collection_j8w8fN"
+    "featured_collection_j8w8fN",
+    "image_with_text_UVtnEp",
+    "image_with_text_DctVgt",
+    "image_with_text_mLdmJm"
   ]
 }
