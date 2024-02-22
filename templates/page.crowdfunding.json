@@ -95,6 +95,48 @@
         "mobile_content_alignment": "left"
       }
     },
+    "image_with_text_FMtAjK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_femnw3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bier & Barbecue",
+            "heading_size": "h1"
+          }
+        },
+        "text_pMwCCy": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Krijg een rondleiding met deskundige uitleg van onze brouwers<\/li><li>Ontdek ons uitgebreid gamma aan bieren<\/li><li>Geniet van een heerlijke barbecue met lokale producten<\/li><li>Alle dranken inbegrepen, alternatieve dranken voor niet bierdrinkers<\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "button_h8fmUm": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_femnw3",
+        "text_pMwCCy",
+        "button_h8fmUm"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/logoBroersgoud.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
     "image_with_text_mLdmJm": {
       "type": "image-with-text",
       "blocks": {
@@ -145,6 +187,7 @@
     "main",
     "image_with_text_UVtnEp",
     "image_with_text_DctVgt",
+    "image_with_text_FMtAjK",
     "image_with_text_mLdmJm"
   ]
 }
