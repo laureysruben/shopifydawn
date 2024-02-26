@@ -6,15 +6,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Unieke ambachtelijke bieren",
+            "heading": "Beer for life is terug!",
             "heading_size": "medium"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Ontdek onze bieren",
-            "button_link_1": "shopify:\/\/collections\/classics",
+            "button_label_1": "Ontdek er alles over",
+            "button_link_1": "shopify:\/\/pages\/crowdfunding",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
