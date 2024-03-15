@@ -6,48 +6,6 @@
       "settings": {
       }
     },
-    "image_with_text_YBDnjQ": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Utzp9W": {
-          "type": "heading",
-          "settings": {
-            "heading": "25\/02 - Comedy @ De Messe - Piet De Praitere",
-            "heading_size": "h1"
-          }
-        },
-        "text_w6TnNk": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Piet De Praitere is schrijver, acteur en stand-up comedian. Een fabuleuze verteller met een absurde stijl vol gratie en vaardigheid. Onvoorspelbaar en gracieus. Een rasechte performer en oude zak die momenteel zijn tweede jeugd beleeft.<br\/>Elke generatie heeft afwijkende performers die niet in een hokje te plaatsen zijn. Piet De Praitere is zo iemand.<br\/>Na zijn theateropleiding stond hij mee aan de wieg van de Vlaamse comedy.<br\/>Hierdoor komt hij terecht bij Studio Kafka, een humoristisch radioprogramma op Studio Brussel, waarin hij samenwerkte met onder meer Kamagurka. Uit dit programma ontstond zijn eerste typetje Etienne met het open verhemelte. Daarna volgen een tiental avondvullende soloshows.<br\/>Als acteur vertolkte Piet verschillende rollen in films en TV-series zoals Bevergem, De Twaalf, Onder vuur, Nonkels, Chantal, …..<br\/><br\/>‘In zijn branche van de amusementswereld is de ongeregelde Piet De Praitere stukken grappiger dan gemiddeld’ (RV – Humo)<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_RqmMd8": {
-          "type": "button",
-          "settings": {
-            "button_label": "Koop tickets",
-            "button_link": "https:\/\/www.your-tickets.be\/events\/ComedyDeMessePietDePraitere"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Utzp9W",
-        "text_w6TnNk",
-        "button_RqmMd8"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Jeroen_verdict-2.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left"
-      }
-    },
     "image_with_text_AKxyN7": {
       "type": "image-with-text",
       "blocks": {
@@ -90,6 +48,48 @@
         "mobile_content_alignment": "left"
       }
     },
+    "image_with_text_cDYaqF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VKE8zC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Studio 9185",
+            "heading_size": "h1"
+          }
+        },
+        "text_GULRrm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>De Messe en Jeugdhuis 't Kasseiken slaan de handen in elkaar om de lokale muziekscene te promoten. <\/p><p>Gedurende 2 dagen bieden we lokale artiesten een podium. Op 26\/04 in De Messe en 27\/04 in jeugdhuis 't Kasseiken.<\/p><p>Gratis inkom!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_JQg3YD": {
+          "type": "button",
+          "settings": {
+            "button_label": "Meer info",
+            "button_link": "https:\/\/www.lokalehelden.be\/evenement\/studio9185"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VKE8zC",
+        "text_GULRrm",
+        "button_JQg3YD"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Affiche_Studio9185.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
     "image_with_text_JCrxnL": {
       "type": "image-with-text",
       "blocks": {
@@ -124,7 +124,7 @@
         "image": "shopify:\/\/shop_images\/luc_caals.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -135,8 +135,8 @@
   },
   "order": [
     "main",
-    "image_with_text_YBDnjQ",
     "image_with_text_AKxyN7",
+    "image_with_text_cDYaqF",
     "image_with_text_JCrxnL"
   ]
 }
