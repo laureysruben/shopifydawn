@@ -98,11 +98,46 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "left"
       }
+    },
+    "image_with_text_rMeACk": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KTn3f9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kerstmarkt Overslag",
+            "heading_size": "h1"
+          }
+        },
+        "text_Rm9zQH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>De gezelligste kerstmarkt van het jaar, in en rond De Messe.</p><p>Kom rondsnuisteren bij tal van leuke kraampjes en geniet tussendoor van een hapje en een drankje.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KTn3f9",
+        "text_Rm9zQH"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/WhatsApp_Image_2024-09-03_at_16.13.56.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_VXBRXG",
-    "image_with_text_ERPCy9"
+    "image_with_text_ERPCy9",
+    "image_with_text_rMeACk"
   ]
 }
