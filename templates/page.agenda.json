@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -5,9 +14,95 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "image_with_text_VXBRXG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nJafP4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Concert harmonie Concordia",
+            "heading_size": "h1"
+          }
+        },
+        "text_UbK87a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Elk najaar organiseren wij een concertweekend rond een bepaald thema. Deze concerten gaan steeds door in de vroegere O.-L.-V. Geboortekerk, nu De Messe, en vormen steeds het hoogtepunt van ons muzikale jaar. Ze zijn dan ook telkens uitverkocht. Snel tickets bestellen is dus de boodschap!</p><p>Dit jaar is het thema ‘Concordia viert’. <br/>We hebben immers wat te vieren: dit jaar is ons tiende themaconcert! We zijn jullie, trouw publiek, zeer dankbaar dat jullie telkens opnieuw met veel plezier komen luisteren en willen daarom voor deze jubileumeditie iets speciaals doen. Wat dat precies is, houden we nog even geheim. Wel kunnen we al verklappen dat je het niet zal willen missen…<br/>Tot dan?</p>",
+            "text_style": "body"
+          }
+        },
+        "button_tp9icy": {
+          "type": "button",
+          "settings": {
+            "button_label": "Tickets",
+            "button_link": "https://www.concordiaoverslag.be/themaconcert/"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nJafP4",
+        "text_UbK87a",
+        "button_tp9icy"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Affiche-met-sponsors_jpg.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "image_with_text_ERPCy9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ka8bDw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hij leeft",
+            "heading_size": "h1"
+          }
+        },
+        "text_hGXbEf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bijna tien jaar na zijn overlijden blijft Luc De Vos voor inspiratie zorgen. waar het al een decennium stil is… tot de zanger terugkeert.<br/><br/>De voorstelling vertelt dus niet zomaar het levensverhaal van de Wippelgemse zanger, maar pakt het poëtischer en melancholischer aan. Het productiehuis de Raaf en Poppentheater Hendrick De Vos neemt je binnenkort zelfs mee naar het repetitiekot van Gorki, op de laatste dag van de Gentse Feesten. Daar ligt alles onder een dikke laag stof, tot Luc terugkeert. Met behulp van live muziek, getuigenissen van fans en zijn teksten brengen we hem een beetje weer tot leven.<br/><br/>Kom zeker kijken naar dit magische moment.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_mxkcUW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Tickets",
+            "button_link": "https://tickets.demesse.be"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ka8bDw",
+        "text_hGXbEf",
+        "button_mxkcUW"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/HijLeeft.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_with_text_VXBRXG",
+    "image_with_text_ERPCy9"
   ]
 }
